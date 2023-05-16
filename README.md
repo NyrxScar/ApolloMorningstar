@@ -1,5 +1,5 @@
 <h1 align="center"> Meu Portfólio </h1>
-# <h4> 💫 Sobre mim: <h4>
+ <h4> 💫 Sobre mim: <h4>
 Bem vindo, meu nome é Apollo Morningstar!<br>Atualmente, estou cursando Desenvolvimento de Sistemas<br>Integrado ao Ensino Médio, além disso sou um individuo que<br>presa pelo perfeccionismo que vem do técnico e pela beleza<br>que vem da arte.
 
 

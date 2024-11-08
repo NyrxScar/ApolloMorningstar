@@ -43,7 +43,7 @@ Se quiser acompanhar meu trabalho ou entrar em contato, aqui estão alguns links
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/joao_va_farias" target="_blank">
+  <a href="https://instagram.com/apollo_nyrx" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>

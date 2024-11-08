@@ -10,7 +10,7 @@
 
 <h4>💡 Sobre mim:</h4>
 <p>
-Sou <strong>Apollo Morningstar</strong>, um estudante de Desenvolvimento de Sistemas integrado ao Ensino Médio, onde alio a precisão técnica com a sensibilidade artística. Minhas paixões vão além da programação — sou também um poeta dedicado, fortemente inspirado por autores como <strong>Clarice Lispector</strong> e <strong>Igor Pires</strong>. O desejo de criar algo que seja funcional e belo define minha jornada como desenvolvedor e como artista.
+Sou <strong>Nyrx</strong>, uma estudante de Desenvolvimento de Sistemas Integrado ao Ensino Médio, onde alio a precisão técnica com a sensibilidade artística. Minhas paixões vão além da programação — sou também uma poeta dedicade, fortemente inspirada por autores como <strong>Clarice Lispector</strong> e <strong>Igor Pires</strong>. O desejo de criar algo que seja funcional e belo define minha jornada como desenvolvedor e como artista.
 </p>
 
 <p>

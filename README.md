@@ -17,7 +17,7 @@
 Olá! Me chamo **Nyrx** — Sou estudante de **Ciência de Dados e Inteligência Artificial**, apaixonada por desenvolver soluções criativas, **gamificadas** e que causem impacto social real.
 
 ⚔️ Com um pé na tecnologia e o outro na arte, busco criar experiências que unem **funcionalidade + sensibilidade**, seja com código ou poesia.  
-🎭 Minhas maiores influências vêm de autores como **Clarice Lispector** e **Igor Pires**, que me inspiram a pensar fora da caixa (e dentro dos parênteses `{}`).
+🎭 Minhas maiores influências vêm de autores como **Clarice Lispector** e **Igor Pires**, que me inspiram a pensar fora da caixa .
 
 🧩 A missão é clara: **transformar vidas com o que sei criar**. Inclusive, a minha.
 

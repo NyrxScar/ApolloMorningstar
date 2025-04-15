@@ -1,4 +1,4 @@
-<h1 align="center">Apollo Morningstar</h1>
+<h1 align="center">Nyrx S. Oliveira de a. Farias</h1>
 
 <h3 align="center">Desenvolvedor de Sistemas | Poeta | Explorador da Arte e da Tecnologia</h3>
 

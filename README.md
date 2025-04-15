@@ -23,19 +23,7 @@ Olá! Me chamo **Nyrx** — e sim, esse é meu nickname de exploradora digital. 
 
 ---
 
-## 🎮 Capivara Jump! — Mini Game
-
-<p align="center">
-  <strong>Use as setas ← → para andar e espaço para pular!</strong><br><br>
-  <iframe src="https://SEU-LINK-AQUI.github.io/capivara-jump" width="500" height="300" style="border: 2px solid #ccc; border-radius: 10px;"></iframe>
-</p>
-
-🔗 *Quer ver o código?* [Veja o repositório do jogo aqui](https://github.com/SEU-USUARIO/capivara-jump)
-
----
-
-## 🛠️ Tech Stack — Dev com alma de Game Designer
-
+## 🛠️ Tech Stack 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />

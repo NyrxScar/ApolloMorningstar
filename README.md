@@ -1,28 +1,26 @@
 <h1 align="center">Nyrx S. Oliveira de A. Farias</h1>
 
-<h3 align="center">Desenvolvedor de Sistemas | Poeta | Explorador da Arte e da Tecnologia</h3>
+<h3 align="center">Desenvolvedora de Sistemas | Poeta | Exploradora da Arte e da Tecnologia</h3>
 
 <p align="center">
-    <em>"A arte e a tecnologia não são mundos opostos, mas sim complementares."</em>
+  <em>"A arte e a tecnologia não são mundos opostos, mas sim complementares."</em>
 </p>
 
 ---
 
-<h4>💡 Sobre mim:</h4>
-<p>
-Sou <strong>Nyrx</strong>, uma estudante de Desenvolvimento de Sistemas Integrado ao Ensino Médio, onde alio a precisão técnica com a sensibilidade artística. Minhas paixões vão além da programação — sou também uma poeta dedicade, fortemente inspirada por autores como <strong>Clarice Lispector</strong> e <strong>Igor Pires</strong>. O desejo de criar algo que seja funcional e belo define minha jornada como desenvolvedor e como artista.
-</p>
+## 💡 Sobre mim
 
-<p>
-Na minha busca por conhecimento, vejo a arte como uma maneira de expandir a mente. Obras como <em>"Anne with an E"</em> e livros como <strong>"Textos Cruéis Demais Para Serem Lidos Rapidamente"</strong> são parte da minha bagagem intelectual, oferecendo uma visão sensível sobre temas como feminismo, igualdade de gênero e os desafios enfrentados pelas minorias. Essas influências contribuem diretamente para o meu desenvolvimento profissional e pessoal, especialmente em áreas como comunicação, criação de conteúdo e empatia social.
-</p>
+Olá! Sou <strong>Nyrx</strong>, estudante de Ciência de Dados e Inteligência Artificial. Minha jornada une técnica e sensibilidade, combinando a lógica da programação com a alma da poesia. Inspiro-me em autores como <strong>Clarice Lispector</strong> e <strong>Igor Pires</strong> para criar não só sistemas eficientes, mas também experiências que tocam e transformam.
+
+Acredito no poder da Educação como agente de mudança. Ao longo dos anos, participei ativamente de projetos de Iniciação Científica — fui pesquisadora por três anos e finalista da maior feira científica do Brasil (FEBIC). Além disso, desenvolvi um aplicativo gamificado com foco em apoiar pessoas neurodivergentes em sua adaptação e qualidade de vida.
+
+Nem sempre o caminho foi fácil — houve momentos em que pensei em desistir. Mas a responsabilidade social e o desejo de fazer a diferença me mantiveram firme. Minha missão é clara: transformar vidas, começando pela minha e, com sorte, passando pela sua também.
 
 ---
 
-## 🛠️ Tech Stack:
-<p>
-No meu dia a dia, utilizo tecnologias que vão desde linguagens de programação até ferramentas de design, garantindo um equilíbrio entre a lógica e a criatividade:
-</p>
+## 🛠️ Tech Stack
+
+Tecnologias e ferramentas com as quais tenho trabalhado para dar forma às minhas ideias:
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -37,22 +35,24 @@ No meu dia a dia, utilizo tecnologias que vão desde linguagens de programação
 
 ---
 
-## 🌐 Redes Sociais:
-<p>
-Se quiser acompanhar meu trabalho ou entrar em contato, aqui estão alguns links:
-</p>
+## 🌐 Onde me encontrar
+
+Quer bater um papo, colaborar ou apenas acompanhar minhas criações? Aqui estão meus contatos:
 
 <p align="center">
-  <a href="https://instagram.com/apollo_nyrx" target="_blank">
+  <a href="https://instagram.com/nyrx_scar__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
+📬 **E-mail:** [nyrxminmir@gmail.com](mailto:nyrxminmir@gmail.com)
+
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ApolloMorningstar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Apollo Morningstar's GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ApolloMorningstar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApolloMorningstar&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApolloMorningstar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>

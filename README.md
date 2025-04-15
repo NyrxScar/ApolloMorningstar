@@ -23,6 +23,8 @@ Nem sempre o caminho foi fácil — houve momentos em que pensei em desistir. Ma
 Tecnologias e ferramentas com as quais tenho trabalhado para dar forma às minhas ideias:
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -52,9 +54,9 @@ Quer bater um papo, colaborar ou apenas acompanhar minhas criações? Aqui estã
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ApolloMorningstar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApolloMorningstar&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApolloMorningstar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=ApolloMorningstar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ApolloMorningstar&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApolloMorningstar&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 ---

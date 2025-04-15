@@ -51,16 +51,6 @@ Quer bater um papo, colaborar ou apenas acompanhar minhas criações? Aqui estã
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=ApolloMorningstar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ApolloMorningstar&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApolloMorningstar&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ApolloMorningstar&icon=0&color=0" alt="Profile Visit Count" />
 </p>

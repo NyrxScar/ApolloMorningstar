@@ -55,4 +55,3 @@ Olá! Me chamo **Nyrx** — e sim, esse é meu nickname de exploradora digital. 
   <img src="https://visitcount.itsvg.in/api?id=ApolloMorningstar&icon=6&color=12" />
 </p>
 
-<!-- Powered by capivaras, café e criatividade -->

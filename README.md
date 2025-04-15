@@ -1,6 +1,10 @@
-<h1 align="center">Nyrx S. Oliveira de A. Farias</h1>
+<h1 align="center">
+  🎮 Nyrx S. Oliveira de A. Farias 🎮  
+</h1>
 
-<h3 align="center">Desenvolvedora de Sistemas | Poeta | Exploradora da Arte e da Tecnologia</h3>
+<h3 align="center">
+  <code>Desenvolvedora de Sistemas</code> | <code>Poeta</code> | <code>Arte + Código = 💜</code>
+</h3>
 
 <p align="center">
   <em>"A arte e a tecnologia não são mundos opostos, mas sim complementares."</em>
@@ -8,51 +12,59 @@
 
 ---
 
-## 💡 Sobre mim
+## 🧠✨ Sobre mim
 
-Olá! Sou <strong>Nyrx</strong>, estudante de Ciência de Dados e Inteligência Artificial. Minha jornada une técnica e sensibilidade, combinando a lógica da programação com a alma da poesia. Inspiro-me em autores como <strong>Clarice Lispector</strong> e <strong>Igor Pires</strong> para criar não só sistemas eficientes, mas também experiências que tocam e transformam.
+Olá! Me chamo **Nyrx** — e sim, esse é meu nickname de exploradora digital. Sou estudante de **Ciência de Dados e Inteligência Artificial**, apaixonada por desenvolver soluções criativas, **gamificadas** e que causem impacto social real.
 
-Acredito no poder da Educação como agente de mudança. Ao longo dos anos, participei ativamente de projetos de Iniciação Científica — fui pesquisadora por três anos e finalista da maior feira científica do Brasil (FEBIC). Além disso, desenvolvi um aplicativo gamificado com foco em apoiar pessoas neurodivergentes em sua adaptação e qualidade de vida.
+⚔️ Com um pé na tecnologia e o outro na arte, busco criar experiências que unem **funcionalidade + sensibilidade**, seja com código ou poesia.  
+🎭 Minhas maiores influências vêm de autores como **Clarice Lispector** e **Igor Pires**, que me inspiram a pensar fora da caixa (e dentro dos parênteses `{}`).
 
-Nem sempre o caminho foi fácil — houve momentos em que pensei em desistir. Mas a responsabilidade social e o desejo de fazer a diferença me mantiveram firme. Minha missão é clara: transformar vidas, começando pela minha e, com sorte, passando pela sua também.
+🧩 A missão é clara: **transformar vidas com o que sei criar**. Inclusive, a minha.
 
 ---
 
-## 🛠️ Tech Stack
-
-Tecnologias e ferramentas com as quais tenho trabalhado para dar forma às minhas ideias:
+## 🎮 Capivara Jump! — Mini Game
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <strong>Use as setas ← → para andar e espaço para pular!</strong><br><br>
+  <iframe src="https://SEU-LINK-AQUI.github.io/capivara-jump" width="500" height="300" style="border: 2px solid #ccc; border-radius: 10px;"></iframe>
+</p>
+
+🔗 *Quer ver o código?* [Veja o repositório do jogo aqui](https://github.com/SEU-USUARIO/capivara-jump)
+
+---
+
+## 🛠️ Tech Stack — Dev com alma de Game Designer
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## 🌐 Onde me encontrar
-
-Quer bater um papo, colaborar ou apenas acompanhar minhas criações? Aqui estão meus contatos:
+## 🌍 Contato & Social
 
 <p align="center">
   <a href="https://instagram.com/nyrx_scar__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </p>
 
-📬 **E-mail:** [nyrxminmir@gmail.com](mailto:nyrxminmir@gmail.com)
+📧 **E-mail:** [nyrxminmir@gmail.com](mailto:nyrxminmir@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ApolloMorningstar&icon=0&color=0" alt="Profile Visit Count" />
+  <img src="https://visitcount.itsvg.in/api?id=ApolloMorningstar&icon=6&color=12" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Powered by capivaras, café e criatividade -->
